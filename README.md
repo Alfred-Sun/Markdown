@@ -10,7 +10,7 @@
 ## 正文 ##
 <h3 id="what">1. MARKDOWN是<i>什么</i>？</h3>
 **MARKDOWN**是一种轻量级**标记语言**，它以纯文本形式(_易读、易写、易更改_)编写文档，并最终以HTML格式发布。    
-**MARKDOWN**也可以理解为将以MARKDOWN语言编写的语言转换成HTML内容的工具，最初是一个perl脚本_Markdown.pl_。    
+**MARKDOWN**也可以理解为将以MARKDOWN语言编写的语言转换成HTML内容的工具，最初是一个perl脚本_Markdown.pl_。文件扩展名是 `.md` 或 `.markdown`。
 
 <h3 id="where">2. <i>谁</i> 发明的这么个东西？</h3>
 它由**Aaron Swartz**和**John Gruber**共同设计，**Aaron Swartz**就是那位迫于压力去年（_2013年1月11日_）自杀,有着**开挂**一般人生的程序员。有着足以让你跪拜的人生经历：
